@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nye:home|Door43 (nye)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nye|d43-nye repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nye/archive/master.zip|d43-nye.zip]]
+
+**Recent Changes**
+{{changes>ns = nye}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nye|Ethnologue data]]
+
